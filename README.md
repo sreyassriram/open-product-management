@@ -570,6 +570,7 @@ and deliver behavior-based engagement every step of the way.
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
+    
 </a>
 
 To the extent possible under law, [Nicholas Ivanecky](https://github.com/tron1991) has waived all copyright and related or neighboring rights to this work.
